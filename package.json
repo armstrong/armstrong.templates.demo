@@ -1,0 +1,10 @@
+{
+    "name": "armstrong.templates.demo",
+    "version": "0.1.0.alpha.0",
+    "description": "A demonstration of many of the features of armstrong",
+    "entry_points": {
+        "armstrong.templates": [
+            "demo = armstrong.templates.demo"
+        ]
+    }
+}
